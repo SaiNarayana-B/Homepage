@@ -257,8 +257,8 @@ nav.open ~ .overlay {
 
 /* Style the icons */
 .calculate-button img {
-    width: 48px; /* Adjust the width and height as needed */
-    height: 48px;
+    width: 128px; /* Adjust the width and height as needed */
+    height: 128px;
     transition: transform 0.3s; /* Add a smooth transform transition on hover */
 }
 
